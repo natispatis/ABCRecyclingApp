@@ -1,0 +1,23 @@
+{
+  "name": "abcrecyclingapp",
+  "version": "1.0.0",
+  "description": "ABCRecycling database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s18914/ABCRecyclingApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s18914/ABCRecyclingApp/issues"
+  },
+  "homepage": "https://github.com/s18914/ABCRecyclingApp#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
